@@ -23,7 +23,7 @@
 ## 📫 联系我
 - 哔哩哔哩：[![Bilibili](https://img.shields.io/badge/Bilibili-FF69B4?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546643173477234)  
 - Telegram：[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Kemeow0815)  
-- QQ：[![QQ Group](https://img.shields.io/badge/QQ%20Group-12B7F5?style=flat&logo=tencent-qq&logoColor=white)]([https://qm.qq.com/q/WfZwcGax0I](https://qm.qq.com/q/GrIsBeXvWg))  
+- QQ：[![QQ Group](https://img.shields.io/badge/QQ%20ID-12B7F5?style=flat&logo=tencent-qq&logoColor=white)]([https://qm.qq.com/q/WfZwcGax0I](https://qm.qq.com/q/GrIsBeXvWg))  
 - 邮箱：[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mcy@kemiaosw.top)  
 
 
