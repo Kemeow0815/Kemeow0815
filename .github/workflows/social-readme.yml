@@ -12,7 +12,7 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: zylele/social-readme@master
+      - uses: Kemeow0815/social-readme@master
         with:
           blog_rss_link: https://blog.kemeow.top/rss.xml
           blog_limit: 5 # blog数量
