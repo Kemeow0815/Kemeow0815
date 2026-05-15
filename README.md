@@ -22,9 +22,9 @@
 ## 博客文章
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.kemeow.top/blog/git-commit-diff/' target='_blank'>如何添加 Git Commit 更新页面和底部信息</a> - 
-* <a href='https://blog.kemeow.top/blog/component-show/' target='_blank'>组件展示</a> - Mon, 11 May 2026 00:00:00 GM
-* <a href='https://blog.kemeow.top/blog/markdown-guide/' target='_blank'>博客功能完整测试</a> - Sun, 10 May 2026 00:00:00 GM
+* <a href='https://blog.kemeow.top/blog/git-commit-diff/' target='_blank'>如何添加 Git Commit 更新页面和底部信息</a> - 2026-05-14
+* <a href='https://blog.kemeow.top/blog/component-show/' target='_blank'>组件展示</a> - 2026-05-11
+* <a href='https://blog.kemeow.top/blog/markdown-guide/' target='_blank'>博客功能完整测试</a> - 2026-05-10
 <!-- END_SECTION:blog -->
 
 
